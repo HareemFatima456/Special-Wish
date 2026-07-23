@@ -102,7 +102,7 @@ function showLetter(){
     <div class="letter">
 
         <h1 class="title">
-            Dear Dani ❤️
+            Dear Adnan ❤️
         </h1>
 
         <img src="images/dani.jpeg" class="letter-image" alt="Dani">
