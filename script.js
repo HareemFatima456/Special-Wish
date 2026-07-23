@@ -105,7 +105,7 @@ function showLetter(){
             Dear Dani ❤️
         </h1>
 
-        <img src="images/photo.jpg" class="letter-image">
+        <img src="images/dani.jpeg" class="letter-image">
 
         <p id="typingText"></p>
 
