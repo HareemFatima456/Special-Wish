@@ -816,3 +816,27 @@ opacity:1;
 transform:translateX(-50%) translateY(0);
 
 }
+
+/* ===========================
+LETTER IMAGE
+=========================== */
+
+.letter-image{
+
+    width:180px;
+
+    height:180px;
+
+    display:block;
+
+    margin:20px auto;
+
+    object-fit:cover;
+
+    border-radius:50%;
+
+    border:5px solid #ffffff;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.18);
+
+}
